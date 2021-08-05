@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".quetion_papers">
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="235dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="30sp"
+        android:layout_marginBottom="15dp"
+        android:text="1st semister"
+        android:textSize="20sp" />
+
+    <Button
+        android:textSize="20sp"
+        android:id="@+id/button1"
+        android:layout_width="235dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginStart="10dp"
+        android:text="2nd semister" />
+
+    <Button
+        android:textSize="20sp"
+        android:id="@+id/button2"
+        android:layout_width="235dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginStart="10dp"
+        android:text="3rd semister"
+        />
+    <Button
+        android:textSize="20sp"
+        android:id="@+id/button3"
+        android:layout_width="235dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginStart="10dp"
+        android:text="4th semister"
+        />
+    <Button
+        android:textSize="20sp"
+        android:id="@+id/button4"
+        android:layout_width="235dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginStart="10dp"
+        android:text="5th semister"
+        />
+    <Button
+        android:textSize="20sp"
+        android:id="@+id/button5"
+        android:layout_width="235dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginStart="10dp"
+        android:text="6th semister"
+        />
+
+
+</LinearLayout>

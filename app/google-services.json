@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360732289992",
+    "project_id": "kls-bca-haliyal",
+    "storage_bucket": "kls-bca-haliyal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360732289992:android:69f012e3e6b4f297f6aefd",
+        "android_client_info": {
+          "package_name": "com.example.klsbcahaliyal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360732289992-161b0uckte0v4mouomi3b57t3ii0q41v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGUGw5MPUJF0jrO-92EkJ9rV8Ux9M9MMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360732289992-161b0uckte0v4mouomi3b57t3ii0q41v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

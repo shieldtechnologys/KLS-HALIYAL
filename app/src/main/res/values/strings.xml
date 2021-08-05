@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BCA HALIYAL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dj">"More than three quarters of a century ago, many eminent lawyers and visionaries from the North Karnataka region, who also happened to be leading lights in the Freedom Struggle, looked far ahead and decided that making legal education accessible to citizens of North Karnataka was a worthy goal, whatever the difficulty. Thus seven eminent lawyers – N. S. Shrikhande, V.A. Naik, V. D. Belvi, B. N. Datar, S. N. Angadi. R. Kotbagi, D. S. Paramaj came together to form Karnatak Law Society in 1939 in Belagavi. Shrimant Raja Lakhamgouda Sirdesai of Vantmuri trusted these Founder Members to be true to their vision and a Promissory Note totaling Rs. 1 Lakh was executed by him to support the application for opening a new Law College. Many of these founder members, and other legal scholars from this region volunteered to teach at this College despite lucrative practice, and extensive personal and social commitments. Belagavi thus became a renowned education centre for Law education. Students from Andhra Pradesh, Kerala and Maharashtra took admission and proved to be active in social, political and judicial fields.<br>
+    </br>"\n\n"<br></br>The first batch of Raja Lakhamgouda College started operating in 1939, graduated in 1941. Since then, more than 7500 students have passed through the hallowed portals of this esteemed institution. A few notables among the many luminaries that this college has produced include – Shri. E. S. Venkataramiah, Former Chief Justice of India, Shri. S. Rajendra Babu, Former Chief Justice of India and Chairman, National Human Rights Commission, .and Shri. K. K. Venugopal, Present Attorney General of India<br>
+    </br>"\n\n"<br></br>
+Today, Karnatak Law Society (KLS) has the distinction of running schools, and colleges in the fields of Law, Commerce, Engineering and Management Education and all its Institutions have earned reputation of being as leading institutions in Karnataka."</string>
+    <string name="kls_administrative_office">KLS Administrative office</string>
+    <string name="vision">To be the leaders in professional and Technical education with global outlook and National spirit.</string>
+    <string name="mission">To impart Quality Education and develop technical and professional skills useful for Nation Building</string>
+    <string name="objective">To impart contemporary methodologies to train technical and professional manpower <br>"\n\n"</br>
+     To induce national spirit and global outlook amongst young generation through value education <br>"\n\n"</br>
+        To contribute the development of society at large by providing quality human resources<br>"\n\n"</br>
+        To undertake activities incidental to community development</string>
+    <string name="insta">Follow on: shrikant__sk08</string>
+    <string name="college">The main objective of this application is to provide the information and make easy for students,This application conatain the information like about college,teaching and non teaching staff,campus,institute.</string>
+    <string name="this_is_demo_text"><u>this is demo text</u></string>
+</resources>

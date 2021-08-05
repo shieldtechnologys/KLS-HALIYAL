@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bgforsinglerow"
+        android:padding="16dp"
+        android:layout_marginBottom="10dp">
+
+        <ImageView
+            android:id="@+id/imgsem"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/unnamed">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/tit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="this is title"
+            android:layout_marginLeft="4dp"
+            android:textColor="#fff"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/imgsem"
+            android:gravity="center_vertical">
+
+        </TextView>
+        <TextView
+            android:id="@+id/year"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="year"
+            android:layout_marginLeft="4dp"
+            android:textColor="#fff"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/imgsem"
+           android:layout_below="@+id/tit"
+            android:gravity="center_vertical">
+
+        </TextView>
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>
